@@ -18,3 +18,6 @@ https://github.com/junegunn/fzf
 
 ### Lazygit
 https://github.com/jesseduffield/lazygit
+
+### Lazydocker
+https://github.com/jesseduffield/lazydocker/releases
