@@ -16,6 +16,9 @@ https://starship.rs
 ### Fzf
 https://github.com/junegunn/fzf
 
+### Tmuxifier
+https://github.com/jimeh/tmuxifier
+
 ### Lazygit
 https://github.com/jesseduffield/lazygit
 
