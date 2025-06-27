@@ -24,3 +24,6 @@ https://github.com/jesseduffield/lazygit
 
 ### Lazydocker
 https://github.com/jesseduffield/lazydocker/releases
+
+### NvChad
+https://nvchad.com/docs/quickstart/install
