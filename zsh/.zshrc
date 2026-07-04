@@ -109,3 +109,10 @@ eval "$(tmuxifier init -)"
 # Set up fzf key bindings and fuzzy completion
 source <(fzf --zsh)
 
+
+# bun completions
+[ -s "/Users/aleksandrkazakov/.bun/_bun" ] && source "/Users/aleksandrkazakov/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

@@ -48,6 +48,14 @@ https://starship.rs
 curl -sS https://starship.rs/install.sh | sh
 ```
 
+## Bun
+
+https://bun.com
+
+```bash
+brew install oven-sh/bun/bun
+```
+
 ## Fzf
 
 https://github.com/junegunn/fzf
