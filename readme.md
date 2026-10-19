@@ -56,6 +56,14 @@ https://ghostty.org
 brew install --cask ghostty
 ```
 
+## Herdr
+
+https://herdr.dev
+
+```bash
+brew install herdr
+```
+
 ## Bun
 
 https://bun.com
