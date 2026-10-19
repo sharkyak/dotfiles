@@ -65,6 +65,14 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
 ```
 
+## Zoxide
+
+https://github.com/ajeetdsouza/zoxide
+
+```bash
+brew install zoxide
+```
+
 ## Tmuxifier
 
 https://github.com/jimeh/tmuxifier

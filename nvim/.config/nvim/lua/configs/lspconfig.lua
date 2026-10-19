@@ -1,6 +1,6 @@
 require("nvchad.configs.lspconfig").defaults()
 
-local servers = { "terraformls", "yaml-language-server" }
+local servers = { "terraformls", "yaml-language-server", "typescript-language-server" }
 vim.lsp.enable(servers)
 
 -- read :h vim.lsp.config for changing options of lsp servers

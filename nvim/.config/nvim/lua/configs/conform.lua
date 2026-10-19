@@ -4,7 +4,7 @@ local options = {
     javascript = { "prettier" },
     yaml = { "prettier" },
     json = { "prettier" },
-    -- css = { "prettier" },
+    typescript = { "prettier" },
     -- html = { "prettier" },
   },
 

@@ -105,6 +105,7 @@ alias ld=lazydocker
 
 eval "$(starship init zsh)"
 eval "$(tmuxifier init -)"
+eval "$(zoxide init zsh)"
 
 # Set up fzf key bindings and fuzzy completion
 source <(fzf --zsh)
