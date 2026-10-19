@@ -64,6 +64,14 @@ https://herdr.dev
 brew install herdr
 ```
 
+## Superfile
+
+https://superfile.dev
+
+```bash
+brew install superfile
+```
+
 ## Bun
 
 https://bun.com
