@@ -48,6 +48,14 @@ https://starship.rs
 curl -sS https://starship.rs/install.sh | sh
 ```
 
+## Ghostty
+
+https://ghostty.org
+
+```bash
+brew install --cask ghostty
+```
+
 ## Bun
 
 https://bun.com
