@@ -93,8 +93,7 @@ brew install oven-sh/bun/bun
 https://github.com/junegunn/fzf
 
 ```bash
-git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
-~/.fzf/install
+brew install fzf
 ```
 
 ## Zoxide
@@ -111,11 +110,19 @@ https://github.com/jimeh/tmuxifier
 
 ## Lazygit
 
-https://github.com/jesseduffield/lazygit/releases
+https://github.com/jesseduffield/lazygit
+
+```bash
+brew install lazygit
+```
 
 ## Lazydocker
 
-https://github.com/jesseduffield/lazydocker/releases
+https://github.com/jesseduffield/lazydocker
+
+```bash
+brew install lazydocker
+```
 
 ## NvChad
 
