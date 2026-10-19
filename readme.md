@@ -6,6 +6,15 @@
 sudo apt update && sudo apt install unzip zsh stow tmux
 ```
 
+## Stow
+
+Each top-level folder is a package that mirrors `$HOME`. Run from the repo root:
+
+```bash
+stow <package>   # symlink, e.g. stow nvim
+stow -D <package>   # remove symlinks
+```
+
 ## Tmux plugin manager
 
 https://github.com/tmux-plugins/tpm
