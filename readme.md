@@ -72,6 +72,14 @@ https://superfile.dev
 brew install superfile
 ```
 
+## Atuin
+
+https://atuin.sh
+
+```bash
+brew install atuin
+```
+
 ## Bun
 
 https://bun.com
